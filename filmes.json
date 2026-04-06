@@ -1,0 +1,90 @@
+[
+  {
+    "titulo": "O Poderoso Chefao",
+    "diretor": "Francis Ford Coppola",
+    "ano": 1972,
+    "duracao": 175,
+    "sinopse": "A familia mafiosa Corleone luta para manter o poder em Nova York enquanto o patriarca Vito Corleone enfrenta ameacas de outras familias.",
+    "preco": 44.91
+  },
+  {
+    "titulo": "Interestelar",
+    "diretor": "Christopher Nolan",
+    "ano": 2014,
+    "duracao": 169,
+    "sinopse": "Um grupo de astronautas viaja por um buraco de minhoca em busca de um novo lar para a humanidade, enquanto a Terra enfrenta uma crise ambiental.",
+    "preco": 53.91
+  },
+  {
+    "titulo": "Matrix",
+    "diretor": "Lana Wachowski, Lilly Wachowski",
+    "ano": 1999,
+    "duracao": 136,
+    "sinopse": "Um programador descobre que a realidade que conhece e uma simulacao criada por maquinas para controlar a humanidade.",
+    "preco": 35.91
+  },
+  {
+    "titulo": "Cidade de Deus",
+    "diretor": "Fernando Meirelles",
+    "ano": 2002,
+    "duracao": 130,
+    "sinopse": "Dois jovens crescem na favela da Cidade de Deus, no Rio de Janeiro, e seguem caminhos opostos: um se torna fotografo, o outro traficante.",
+    "preco": 40.41
+  },
+  {
+    "titulo": "A Origem",
+    "diretor": "Christopher Nolan",
+    "ano": 2010,
+    "duracao": 148,
+    "sinopse": "Um ladrao que invade sonhos recebe a missao de implantar uma ideia na mente de um herdeiro, enfrentando niveis profundos do subconsciente.",
+    "preco": 49.41
+  },
+  {
+    "titulo": "Parasita",
+    "diretor": "Bong Joon-ho",
+    "ano": 2019,
+    "duracao": 132,
+    "sinopse": "Uma familia pobre se infiltra na casa de uma familia rica, desencadeando uma serie de eventos inesperados e tensoes sociais.",
+    "preco": 44.91
+  },
+  {
+    "titulo": "Clube da Luta",
+    "diretor": "David Fincher",
+    "ano": 1999,
+    "duracao": 139,
+    "sinopse": "Um homem insone e um vendedor de sabonetes criam um clube de luta que se transforma em um movimento de protesto contra o consumismo.",
+    "preco": 38.61
+  },
+  {
+    "titulo": "O Labirinto do Fauno",
+    "diretor": "Guillermo del Toro",
+    "ano": 2006,
+    "duracao": 118,
+    "sinopse": "Na Espanha pos-guerra, uma menina descobre um labirinto magico onde encontra um fauno que revela sua verdadeira identidade como princesa.",
+    "preco": 43.11
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "diretor": "Quentin Tarantino",
+    "ano": 1994,
+    "duracao": 154,
+    "sinopse": "Historias interligadas de gangsters, boxeadores e criminosos em Los Angeles, com dialogos afiados e violencia estilizada.",
+    "preco": 47.61
+  },
+  {
+    "titulo": "Whiplash",
+    "diretor": "Damien Chazelle",
+    "ano": 2014,
+    "duracao": 107,
+    "sinopse": "Um jovem baterista de jazz enfrenta um professor rigoroso e abusivo que usa metodos extremos para extrair o potencial maximo do aluno.",
+    "preco": 42.21
+  },
+  {
+    "titulo": "O Irlandes",
+    "diretor": "Martin Scorsese",
+    "ano": 2019,
+    "duracao": 209,
+    "sinopse": "Um veterano da Segunda Guerra se torna assassino de aluguel e se envolve com a maforia americana ao longo de decadas.",
+    "preco": 58.410000000000004
+  }
+]
